@@ -52,7 +52,7 @@
    <td colspan="4" >
 </ol>    
 <ol>
-<li><strong>Introduction to course program</strong>
+<li><strong>Introduction to the course program</strong>
 <li><strong>Introduction to TON</strong>
 </li>
 </ol>
@@ -73,7 +73,7 @@
   <tr>
    <td>1
    </td>
-   <td>Blockchains, accounts and transactions. Overview of the basic account logic - balance, transacitons history. Master and workchain role and possibilities. Understanding the role of validators.
+   <td>Blockchains, accounts and transactions. Overview of the basic account logic - balance, transactions history. Master and workchain role and possibilities. Understanding the role of validators.
    </td>
    <td>10-12 minutes
    </td>
@@ -84,7 +84,7 @@
   <tr>
    <td>2
    </td>
-   <td>Understanding the concept of account. In-depth concept of the account a.k.a wallet/contract. Customization possiblities that enable variaty of custom financial services as well as whole new entities, such as jettons.</td>
+   <td>Understanding the concept of account. In-depth concept of the account a.k.a wallet/contract. Customization possibilities that enable a variety of custom financial services as well as whole new entities, such as jettons.</td>
    <td>10-12 minutes
    </td>
   <td>Oleg
@@ -126,7 +126,7 @@
    <td colspan="4" >
 </ol>    
 <ol>
-<li><strong>Smartcontracts</strong></li>
+<li><strong>Smart-contracts</strong></li>
 </li>
 </ol>
    </td>
@@ -155,7 +155,7 @@
   <tr>
    <td>2
    </td>
-   <td>Understanding transaction cost. Gas, rent, other comissions.Paid incoming messages logic.<td>10-12 minutes
+   <td>Understanding transaction cost. Gas, rent, other commissions.Paid incoming messages logic.<td>10-12 minutes
    </td>
   <td>Oleg
   </td>
@@ -173,7 +173,7 @@
 <tr>
    <td>4
    </td>
-   <td>Scalable contracts. Storing the state in a distributed and tokinized way<td>10-12 minutes
+   <td>Scalable contracts. Storing the state in a distributed and tokenized way<td>10-12 minutes
    </td>
   <td>Oleg
   </td>
@@ -749,7 +749,7 @@
   <tr>
    <td>2
    </td>
-   <td>Glance view to code of classic Jetton smartcontract structure. Implementing sharded Jetton master-contract.</td>
+   <td>Glance view to code of classic Jetton smart-contract structure. Implementing sharded Jetton master-contract.</td>
      <td>20-25 minutes
    </td>
   <td>Mark
@@ -768,7 +768,7 @@
     <tr>
    <td>4
    </td>
-   <td>Writing tests for Jetton smartcontracts</td>
+   <td>Writing tests for Jetton smart-contracts</td>
       <td>15-20 minutes
    </td>
   <td>Mark
