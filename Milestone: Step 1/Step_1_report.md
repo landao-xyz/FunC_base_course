@@ -126,7 +126,7 @@
    <td colspan="4" >
 </ol>    
 <ol>
-<li><strong>Smart-contracts</strong></li>
+<strong>Smart-contracts</strong>
 </li>
 </ol>
    </td>
@@ -191,7 +191,7 @@
    <td colspan="4" >
 </ol>    
 <ol>
-<li><strong>Understanding smart contract development lifecycle</strong></li>
+<strong>Understanding smart contract development lifecycle</strong>
 </li>
 </ol>
    </td>
@@ -260,7 +260,7 @@
    <td colspan="4" >
 </ol>    
 <ol>
-<li><strong>Testing smart contracts</strong></li>
+<strong>Testing smart contracts</strong>
 </li>
 </ol>
    </td>
@@ -280,88 +280,17 @@
   <tr>
    <td>1
    </td>
-   <td>Smart contract dev lifecycle overview</td>
-   <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>2
-   </td>
    <td>Writing simple smart contracts with testable logic</td>
      <td>10-12 minutes
    </td>
   <td>Mark
   </td>
-  </tr>
-  
-  <tr>
-   <td>3
-   </td>
-   <td>Understanding test cases for a smart contract</td>
-     <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-<tr>
-   <td>4
-   </td>
-   <td>Implementing local tests with smart contract-executor</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>5
-   </td>
-   <td>Implementing on-chain tests</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-<tr>
-   <td colspan="4" >
-</ol>    
-<ol>
-<li><strong>Testing smart contracts</strong></li>
-</li>
-</ol>
-   </td>
-  </tr>
-  
-  <tr>
-   <td><strong>Lessons</strong>
-   </td>
-   <td><strong>Chapters</strong>
-   </td>
-   <td><strong>Duration</strong>
-   </td>
-   <td><strong>Speakers</strong>
-   </td>
   </tr>
   
   <tr>
    <td>1
    </td>
-   <td>Smart contract dev lifecycle overview</td>
-   <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>2
-   </td>
-   <td>Writing simple smart contracts with testable logic</td>
+   <td>Understanding test cases for a smart contract</td>
      <td>10-12 minutes
    </td>
   <td>Mark
@@ -371,16 +300,6 @@
 <tr>
    <td>3
    </td>
-   <td>Understanding test cases for a smart contract</td>
-     <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>4
-   </td>
    <td>Implementing local tests with smart contract-executor</td>
       <td>10-12 minutes
    </td>
@@ -389,163 +308,22 @@
   </tr>
   
   <tr>
-   <td>5
-   </td>
-   <td>Implementing on-chain tests</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  
-  
-<tr>
-   <td colspan="4" >
-</ol>    
-<ol>
-<li><strong>Testing smart contracts</strong></li>
-</li>
-</ol>
-   </td>
-</tr>
-  
-  <tr>
-   <td><strong>Lessons</strong>
-   </td>
-   <td><strong>Chapters</strong>
-   </td>
-   <td><strong>Duration</strong>
-   </td>
-   <td><strong>Speakers</strong>
-   </td>
-  </tr>
-  
-  <tr>
-   <td>1
-   </td>
-   <td>Smart contract dev lifecycle overview</td>
-   <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>2
-   </td>
-   <td>Writing simple smart contracts with testable logic</td>
-     <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>3
-   </td>
-   <td>Understanding test cases for a smart contract</td>
-     <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
    <td>4
    </td>
-   <td>Implementing local tests with smart contract-executor</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>5
-   </td>
    <td>Implementing on-chain tests</td>
       <td>10-12 minutes
    </td>
   <td>Mark
   </td>
   </tr>
+ 
   
+
 <tr>
    <td colspan="4" >
 </ol>    
 <ol>
-<li><strong>Testing smart contracts</strong></li>
-</li>
-</ol>
-   </td>
-</tr>
-  
-  <tr>
-   <td><strong>Lessons</strong>
-   </td>
-   <td><strong>Chapters</strong>
-   </td>
-   <td><strong>Duration</strong>
-   </td>
-   <td><strong>Speakers</strong>
-   </td>
-  </tr>
-  
-  <tr>
-   <td>1
-   </td>
-   <td>Smart contract dev lifecycle overview</td>
-   <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>2
-   </td>
-   <td>Writing simple smart contracts with testable logic</td>
-     <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>3
-   </td>
-   <td>Understanding test cases for a smart contract</td>
-     <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>4
-   </td>
-   <td>Implementing local tests with smart contract-executor</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>5
-   </td>
-   <td>Implementing on-chain tests</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-<tr>
-   <td colspan="4" >
-</ol>    
-<ol>
-<li><strong>Frontend interaction with TON</strong></li>
+<strong>Frontend interaction with TON</strong>
 </li>
 </ol>
    </td>
@@ -628,92 +406,6 @@
   </td>
   </tr>
  
-<tr>
-   <td colspan="4" >
-</ol>    
-<ol>
-<li><strong>Frontend interaction with TON</strong></li>
-</li>
-</ol>
-   </td>
-  </tr>
-  
-  <tr>
-   <td><strong>Lessons</strong>
-   </td>
-   <td><strong>Chapters</strong>
-   </td>
-   <td><strong>Duration</strong>
-   </td>
-   <td><strong>Speakers</strong>
-   </td>
-  </tr>
-  
-  <tr>
-   <td>1
-   </td>
-   <td>Authentification with Tonhub</td>
-   <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>2
-   </td>
-   <td>Authentification with Tonkeeper</td>
-     <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  
-  <tr>
-   <td>3
-   </td>
-   <td>Simple logic of showing wallet data after authentification</td>
-     <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-    <tr>
-   <td>4
-   </td>
-   <td>Initiating/requesting transactions (tonhub & tonkeeper)</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-    <tr>
-   <td>5
-   </td>
-   <td>Using TON API to read and represent data from blockchain</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>Telegram Web App structure and programming</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
-  <tr>
-   <td>7
-   </td>
-   <td>Telegram bot structure and programming</td>
-      <td>10-12 minutes
-   </td>
-  <td>Mark
-  </td>
-  </tr>
  
 <tr>
    <td colspan="4" >
@@ -787,7 +479,7 @@
    <td colspan="4" >
 </ol>    
 <ol>
-<li><strong>Security</strong></li>
+<strong>Security</strong>
 </li>
 </ol>
    </td>
@@ -820,7 +512,7 @@
    <td colspan="4" >
 </ol>    
 <ol>
-<li><strong>Ecosystem products, future plans and vision</strong></li>
+<strong>Ecosystem products, future plans and vision</strong>
 </li>
 </ol>
 </td>
