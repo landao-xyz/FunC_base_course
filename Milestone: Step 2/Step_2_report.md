@@ -5,4 +5,4 @@
 2. Scripts for two sections developed 
 - Chapter 3. "Smart contract development lifecycle" is [here](https://github.com/markokhman/func-course/tree/main/Chapter%203).
 - Chapter 4. "Mastering FunC contracts coding" is [here](https://github.com/markokhman/func-course/tree/main/Chapter%204).
-3. Video design developed [here](https://github.com/ton-society/ton-footsteps/issues/84#issuecomment-1343967359).
+3. Video design developed [here]([https://github.com/ton-society/ton-footsteps/issues/84#issuecomment-1343967359](https://github.com/landao-xyz/Design/blob/main/image.png)).
