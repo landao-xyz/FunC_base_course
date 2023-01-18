@@ -1,4 +1,4 @@
-# Step_2_report
+# REPORT ON FOOTSTEP 2
 
 #### The second milestone was completed 
 1. Custdev conducted and the program updated [here](https://github.com/markokhman/func-course). The structure has been adjusted, founders of TON projects as new speakers have been added.
